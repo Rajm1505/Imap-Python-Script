@@ -5,11 +5,11 @@ Follow these steps
 - Clone the repo
 - Create a .env file 
 - Configure Your Email id Password Like following 
-    IMAP_USER = "<Your email id>"
-    IMAP_PASSWORD = "<app password of your email id>"
+    - IMAP_USER = "Your email id"
+    - IMAP_PASSWORD = "app password of your email id"
 
 - Create a virtual env then run the following command
-    pip install -r requirements.txt
+    - pip install -r requirements.txt
 
 Voila You are set to go
 
